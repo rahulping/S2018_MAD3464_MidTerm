@@ -3,8 +3,7 @@ public class LambtonStringTools1 {
     
     
      static int i;
-static int c = 0;
-static int res;
+
 
 static void reverse(String s){
     char ch[] = new char[s.length()];
