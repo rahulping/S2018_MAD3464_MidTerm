@@ -17,6 +17,8 @@ public class Main {
             
                     System.out.println("" + BinaryDecimal.convert("100101010"));
             System.out.println(SubString.replaceSubString("the dog jumped over the fence.", "the", "that"));
+            
+            System.out.println(NameIntials.initials("Priteksh Patel"));
     }
     
 }
