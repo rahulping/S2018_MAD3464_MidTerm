@@ -15,7 +15,7 @@ public class Main {
     lst.reverse("LAMBTONCOllEGE");
             System.out.println(MaxOccurenceOfCharacter.find("aaaabbbbccc"));
             
-            System.out.println("  " +BinaryDecimal.decimalNumber("1000"));
+                    System.out.println("" + BinaryDecimal.convert("100101010"));
             System.out.println(SubString.replaceSubString("the dog jumped over the fence.", "the", "that"));
     }
     
