@@ -12,7 +12,7 @@ public class Main {
         
         
         LambtonStringTools1 lst = new LambtonStringTools1();
-    lst.reverse("Lambton");
+    lst.reverse("LAMBTONCollge");
     }
     
 }
