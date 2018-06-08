@@ -12,7 +12,8 @@ public class Main {
         
         
         LambtonStringTools1 lst = new LambtonStringTools1();
-    lst.reverse("LAMBTONCollge");
+    lst.reverse("LAMBTONCOllEGE");
+            System.out.println(MaxOccurenceOfCharacter.find("aaaabbbbccc"));
     }
     
 }
